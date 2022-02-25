@@ -2,10 +2,11 @@
 <!DOCTYPE html>
 <f:view xmlns:f="http://java.sun.com/jsf/core" xmlns:af="http://xmlns.oracle.com/adf/faces/rich">
     <af:document title="Branch1Page.jsf" id="d1">
-        <af:form id="f1">
+        <af:form id="f1" usesUpload="true">
             <af:panelGroupLayout id="pgl1">
                 <af:button text="button 1" id="b1"/>
                 <af:inputDate label="Label 1" id="id1"/>
+                <af:inputFile label="Label 1" id="if1"/>
             </af:panelGroupLayout>
         </af:form>
     </af:document>
