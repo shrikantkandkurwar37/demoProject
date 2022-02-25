@@ -5,11 +5,10 @@
         <af:form id="f1" usesUpload="true">
             <af:panelGroupLayout id="pgl1">
                 <af:button text="button 1" id="b1"/>
-<<<<<<< HEAD
-                <af:inputDate label="Label 1" id="id1"/>
-                <af:inputFile label="Label 1" id="if1"/>
-=======
->>>>>>> parent of ddf3cc0 (Added inputDate)
+
+                <af:inputDate label="Input Date 1" id="id1"/>
+                <af:inputFile label="Input File 1" id="if1"/>
+
             </af:panelGroupLayout>
         </af:form>
     </af:document>
