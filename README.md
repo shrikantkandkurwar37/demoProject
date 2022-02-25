@@ -1,2 +1,0 @@
-# demoProject
-Dummy Projects
